@@ -1,0 +1,465 @@
+[
+   {
+      "shortname":"ЗАО Инструмент",
+      "name":"Закрытое акционерное общество Инструмент",
+      "adress":"г. Нижний Новгород,Ш. Московсоке, д. 52",
+      "phonenumber":"8(831)275-50-59",
+      "inn":"5257021756",
+      "ogrn":"1025202395140",
+      "founddate":"1997-07-13",
+      "stock":[
+         {
+            "shortname":"Сбербанк",
+            "name":"Сбербанк России ПАО ао",
+            "boardid":"TQBR",
+            "isin":"RU000A0JS2J5",
+            "faceunit":"CNY",
+            "issuedate":"1998-03-02",
+            "selldate":"2012-04-10",
+            "count":"7357",
+            "price":"30.91"
+         },
+         {
+            "shortname":"Сургнфгз",
+            "name":"Сургутнефтегаз ПАО акции об.",
+            "boardid":"TQBR",
+            "isin":"RU0008926258",
+            "faceunit":"CHF",
+            "issuedate":"1999-01-21",
+            "selldate":"2010-07-04",
+            "count":"6524",
+            "price":"450.6"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Интерлизинг",
+      "name":"Закрытое акционерное общество Интерлизинг",
+      "adress":"г. Москва, ул. Тихая, д. 24, пом. 674",
+      "phonenumber":"",
+      "inn":"5412874863",
+      "ogrn":"1879452368975",
+      "founddate":"1999-11-21",
+      "stock":[
+         {
+            "shortname":"Сбербанк",
+            "name":"Сбербанк России ПАО ао",
+            "boardid":"TQBR",
+            "isin":"RU000A0JS2J5",
+            "faceunit":"RUB",
+            "issuedate":"2000-01-13",
+            "selldate":"2023-01-15",
+            "count":"8527",
+            "price":"33.71"
+         },
+         {
+            "shortname":"Сургнфгз",
+            "name":"Сургутнефтегаз ПАО акции об.",
+            "boardid":"TQBR",
+            "isin":"RU0008926258",
+            "faceunit":"CNY",
+            "issuedate":"2001-07-21",
+            "selldate":"2015-07-13",
+            "count":"6973",
+            "price":"465.67"
+         },
+         {
+            "shortname":"Ростел -ао",
+            "name":"Ростелеком (ПАО) ао.",
+            "boardid":"SMAL",
+            "isin":"RU0008943394",
+            "faceunit":"JPY",
+            "issuedate":"2002-06-01",
+            "selldate":"2020-03-13",
+            "count":"1597",
+            "price":"951.7"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Интрига",
+      "name":"Закрытое акционерное общество Интрига",
+      "adress":"г. Москва, бульв. Тихорецкий, д. 4, корп. 1, пом. 125",
+      "phonenumber":"8(374)458-85-71",
+      "inn":"5632587418",
+      "ogrn":"1874125879387",
+      "founddate":"2003-05-15",
+      "stock":[
+         {
+            "shortname":"Ростел -ао",
+            "name":"Ростелеком (ПАО) ао.",
+            "boardid":"SMAL",
+            "isin":"RU0008943394",
+            "faceunit":"RUB",
+            "issuedate":"2003-08-15",
+            "selldate":"2015-09-21",
+            "count":"6785",
+            "price":"927.1"
+         },
+         {
+            "shortname":"Роснефть",
+            "name":"ПАО НК Роснефть",
+            "boardid":"TQBR",
+            "isin":"RU000A0J2Q06",
+            "faceunit":"RUB",
+            "issuedate":"2015-07-01",
+            "selldate":"2021-04-10",
+            "count":"7325",
+            "price":"289.4"
+         },
+         {
+            "shortname":"iQIWI",
+            "name":"QIWI PLC",
+            "boardid":"SMAL",
+            "isin":"US74735M1080",
+            "faceunit":"CHF",
+            "issuedate":"2004-01-18",
+            "selldate":"2010-07-14",
+            "count":"9685",
+            "price":"775.6"
+         },
+         {
+            "boardid":"SMAL",
+            "shortname":"ТРК ао",
+            "name":"ао Томская распределит.комп.",
+            "isin":"RU000A0ETZF2",
+            "faceunit":"CNY",
+            "issuedate":"2004-05-19",
+            "selldate":"2025-04-29",
+            "count":"3571",
+            "price":"210.8"
+         }
+      ]
+   },
+   {
+      "shortname":"ОАО Проресслайн",
+      "name":"Открытое акционерное общество Проресслайн",
+      "adress":"г. Москва, ул. Краснодарская, д. 14, пом. 451",
+      "phonenumber":"8(415)879-84-32",
+      "inn":"4523698731",
+      "ogrn":"1748936528745",
+      "founddate":"1996-07-14",
+      "stock":[
+         {
+            "shortname":"Селигдар-п",
+            "name":"ПАО Селигдар ап",
+            "boardid":"SMAL",
+            "isin":"RU0008926258",
+            "faceunit":"JPY",
+            "issuedate":"1999-04-27",
+            "selldate":"2014-05-17",
+            "count":"5846",
+            "price":"129.8"
+         },
+         {
+            "shortname":"Сургнфгз",
+            "name":"Сургутнефтегаз ПАО акции об.",
+            "boardid":"TQBR",
+            "isin":"RU0008926258",
+            "faceunit":"CHF",
+            "issuedate":"2001-09-15",
+            "selldate":"2025-02-13",
+            "count":"2875",
+            "price":"485.6"
+         },
+         {
+            "shortname":"Ростел -ао",
+            "name":"Ростелеком (ПАО) ао.",
+            "boardid":"SMAL",
+            "isin":"RU0008943394",
+            "faceunit":"EUR",
+            "issuedate":"2003-08-10",
+            "selldate":"2019-07-16",
+            "count":"3978",
+            "price":"982.1"
+         },
+         {
+            "shortname":"Роснефть",
+            "name":"ПАО НК Роснефть",
+            "boardid":"TQBR",
+            "isin":"RU000A0J2Q06",
+            "faceunit":"CHF",
+            "issuedate":"2010-05-16",
+            "selldate":"2019-03-14",
+            "count":"1793",
+            "price":"302.3"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Промсервис",
+      "name":"Закрытое акционерное общество Промсервис",
+      "adress":"г. Москва, ул Мариупольская, д. 6, офис 28",
+      "phonenumber":"8(487)821-74-85",
+      "inn":"4785139734",
+      "ogrn":"1874589632587",
+      "founddate":"2004-06-18",
+      "stock":[
+         {
+            "shortname":"Сбербанк",
+            "name":"Сбербанк России ПАО ао",
+            "boardid":"TQBR",
+            "isin":"RU000A0JS2J5",
+            "faceunit":"CHF",
+            "issuedate":"2005-07-10",
+            "selldate":"2016-10-13",
+            "count":"3579",
+            "price":"33.91"
+         },
+         {
+            "shortname":"Ростел -ао",
+            "name":"Ростелеком (ПАО) ао.",
+            "boardid":"SMAL",
+            "isin":"RU0008943394",
+            "faceunit":"GBP",
+            "issuedate":"2007-08-10",
+            "selldate":"2032-11-12",
+            "count":"3975",
+            "price":"942.5"
+         },
+         {
+            "shortname":"iQIWI",
+            "name":"QIWI PLC",
+            "boardid":"SMAL",
+            "isin":"US74735M1080",
+            "faceunit":"CHF",
+            "issuedate":"2015-07-14",
+            "selldate":"2020-01-16",
+            "count":"2874",
+            "price":"771.3"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Профинвест",
+      "name":"Закрытое акционерное общество Профинвест",
+      "adress":"г. Москва, ул. Совхозная, д. 20, офис 361",
+      "phonenumber":"8(324)985-71-98",
+      "inn":"5871974913",
+      "ogrn":"1874589632587",
+      "founddate":"1998-06-10",
+      "stock":[
+         {
+            "shortname":"Селигдар-п",
+            "name":"ПАО Селигдар ап",
+            "boardid":"SMAL",
+            "isin":"RU0008926258",
+            "faceunit":"CNY",
+            "issuedate":"2002-07-24",
+            "selldate":"2017-09-11",
+            "count":"4583",
+            "price":"125.1"
+         },
+         {
+            "shortname":"Роснефть",
+            "name":"ПАО НК Роснефть",
+            "boardid":"TQBR",
+            "isin":"RU000A0J2Q06",
+            "faceunit":"CHF",
+            "issuedate":"2003-08-04",
+            "selldate":"2018-12-16",
+            "count":"8753",
+            "price":"308.6"
+         },
+         {
+            "shortname":"ТРК ао",
+            "name":"ао Томская распределит.комп.",
+            "boardid":"SMAL",
+            "isin":"RU000A0ETZF2",
+            "faceunit":"RUB",
+            "issuedate":"2003-07-14",
+            "selldate":"2024-09-18",
+            "count":"8736",
+            "price":"216.9"
+         }
+      ]
+   },
+   {
+      "shortname":"ОАО Триан",
+      "name":"Открытое акционерное общество Триан",
+      "adress":"г. Москва, ул. Промышленная, д. 124, пом. 35",
+      "phonenumber":"8(394)748-92-45",
+      "inn":"5798417423",
+      "ogrn":"1745937841398",
+      "founddate":"2003-08-29",
+      "stock":[
+         {
+            "shortname":"Селигдар-п",
+            "name":"ПАО Селигдар ап",
+            "boardid":"SMAL",
+            "isin":"RU0008926258",
+            "faceunit":"USD",
+            "issuedate":"2003-09-26",
+            "selldate":"2025-10-12",
+            "count":"3864",
+            "price":"131.7"
+         },
+         {
+            "shortname":"iQIWI",
+            "name":"QIWI PLC",
+            "boardid":"SMAL",
+            "isin":"US74735M1080",
+            "faceunit":"GBP",
+            "issuedate":"2004-07-14",
+            "selldate":"2018-07-10",
+            "count":"4873",
+            "price":"792.1"
+         },
+         {
+            "shortname":"ТРК ао",
+            "name":"ао Томская распределит.комп.",
+            "boardid":"SMAL",
+            "isin":"RU000A0ETZF2",
+            "faceunit":"JPY",
+            "issuedate":"2010-08-21",
+            "selldate":"2017-03-16",
+            "count":"3571",
+            "price":"228.9"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО УралСантех",
+      "name":"Закрытое акционерное общество УралСантех",
+      "adress":"г. Уфа, ул. Трамвайная, д. 2/4",
+      "phonenumber":"8(391)957-48-21",
+      "inn":"5987412876",
+      "ogrn":"1852794379412",
+      "founddate":"1999-07-11",
+      "stock":[
+         {
+            "shortname":"Сбербанк",
+            "name":"Сбербанк России ПАО ао",
+            "boardid":"TQBR",
+            "isin":"RU000A0JS2J5",
+            "faceunit":"USD",
+            "issuedate":"2001-07-14",
+            "selldate":"2016-12-18",
+            "count":"3987",
+            "price":"30.68"
+         },
+         {
+            "shortname":"Сургнфгз",
+            "name":"Сургутнефтегаз ПАО акции об.",
+            "boardid":"TQBR",
+            "isin":"RU0008926258",
+            "faceunit":"CHF",
+            "issuedate":"2002-06-16",
+            "selldate":"2023-07-18",
+            "count":"2574",
+            "price":"471.2"
+         },
+         {
+            "shortname":"ТРК ао",
+            "name":"ао Томская распределит.комп.",
+            "boardid":"SMAL",
+            "isin":"RU000A0ETZF2",
+            "faceunit":"CHF",
+            "issuedate":"2005-03-16",
+            "selldate":"2019-07-18",
+            "count":"2897",
+            "price":"216.9"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Фирма МДС",
+      "name":"Закрытое акционерное общество Фирма МДС",
+      "adress":"г. Москва, пр-д. Кирова, д. 2, офис 374",
+      "phonenumber":"8(314)974-93-21",
+      "inn":"6587418935",
+      "ogrn":"1874287394685",
+      "founddate":"2000-02-14",
+      "stock":[
+         {
+            "shortname":"Селигдар-п",
+            "name":"ПАО Селигдар ап",
+            "boardid":"SMAL",
+            "isin":"RU0008926258",
+            "faceunit":"RUB",
+            "issuedate":"2000-05-18",
+            "selldate":"2015-09-21",
+            "count":"3541",
+            "price":"128.9"
+         },
+         {
+            "shortname":"Ростел -ао",
+            "name":"Ростелеком (ПАО) ао.",
+            "boardid":"SMAL",
+            "isin":"RU0008943394",
+            "faceunit":"EUR",
+            "issuedate":"2002-04-27",
+            "selldate":"2028-09-14",
+            "count":"3678",
+            "price":"941.2"
+         },
+         {
+            "shortname":"Роснефть",
+            "name":"ПАО НК Роснефть",
+            "boardid":"TQBR",
+            "isin":"RU000A0J2Q06",
+            "faceunit":"CNY",
+            "issuedate":"2004-07-11",
+            "selldate":"2019-01-17",
+            "count":"4573",
+            "price":"308.4"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Холдарт",
+      "name":"Закрытое акционерное общество Холдарт",
+      "adress":"г. Москва, ул. Якорная, д. 5, корп. 2, пом. 2",
+      "phonenumber":"8(497)251-45-34",
+      "inn":"5741278435",
+      "ogrn":"1874937654892",
+      "founddate":"2008-01-30",
+      "stock":[
+         {
+            "shortname":"Сбербанк",
+            "name":"Сбербанк России ПАО ао",
+            "boardid":"TQBR",
+            "isin":"RU000A0JS2J5",
+            "faceunit":"CNY",
+            "issuedate":"2008-05-19",
+            "selldate":"2016-07-16",
+            "count":"7983",
+            "price":"31.67"
+         },
+         {
+            "shortname":"Роснефть",
+            "name":"ПАО НК Роснефть",
+            "boardid":"TQBR",
+            "isin":"RU000A0J2Q06",
+            "faceunit":"JPY",
+            "issuedate":"2009-09-02",
+            "selldate":"2024-08-26",
+            "count":"3678",
+            "price":"316.8"
+         },
+         {
+            "shortname":"iQIWI",
+            "name":"QIWI PLC",
+            "boardid":"SMAL",
+            "isin":"US74735M1080",
+            "faceunit":"RUB",
+            "issuedate":"2010-02-16",
+            "selldate":"2019-03-19",
+            "count":"1859",
+            "price":"771.3"
+         }
+      ]
+   },
+   {
+      "shortname":"ЗАО Сигма",
+      "name":"Закрытое акционерное общество Сигма",
+      "adress":"г. Москва, ул. Демидова, д. 21, корп. 1, пом. 3",
+      "phonenumber":"8(496)947-41-87",
+      "inn":"5874195731",
+      "ogrn":"1987297439852",
+      "founddate":"2007-05-29",
+      "stock":[
+         
+      ]
+   }
+]
