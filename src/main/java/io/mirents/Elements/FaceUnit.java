@@ -26,4 +26,4 @@ public enum FaceUnit {
         public String toString() {
             return title;
         }
-    };
+    }
