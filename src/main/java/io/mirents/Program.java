@@ -3,12 +3,13 @@
 */
 package io.mirents;
 
-import io.mirents.OperatorDB.DataBaseJSON;
+import io.mirents.service.ConsoleMenu;
 
 public class Program {
-    static DataBaseJSON dataBase;
+    static ConsoleMenu consoleMenu;
     
     public static void main(String[] args) {
-        DataBaseJSON dataBase = new DataBaseJSON();
+        ConsoleMenu consoleMenu = new ConsoleMenu();
+        consoleMenu.start();
     }
 }

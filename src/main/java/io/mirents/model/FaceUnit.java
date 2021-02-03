@@ -1,7 +1,7 @@
 /*
     Перечисление валют для ценных бумаг
 */
-package io.mirents.Elements;
+package io.mirents.model;
 
 public enum FaceUnit {
         USD("Доллар США"),

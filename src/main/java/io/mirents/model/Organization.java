@@ -1,7 +1,7 @@
 /*
     Класс организации со списком акций, принадлежащих компании
 */
-package io.mirents.Elements;
+package io.mirents.model;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -32,7 +32,8 @@ public class Organization {
     
     @Override
     public String toString() {
-        return shortname + ", " + stock.toString();
+        String result = String.format("%-17s | %s", shortname, founddate.toString());
+        return result;
     }
     
     public ArrayList<Stock> getStock() {
@@ -41,13 +42,5 @@ public class Organization {
     
     public LocalDate getLocalDate() {
         return founddate;
-    }
-    
-    public String getSrtNameAndFndDate() {
-        return String.format("%-17s | %s", shortname, founddate);
-    }
-    
-    public String getName() {
-        return name;
     }
 }

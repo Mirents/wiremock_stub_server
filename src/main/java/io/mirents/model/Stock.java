@@ -1,7 +1,7 @@
 /*
     Класс акции
 */
-package io.mirents.Elements;
+package io.mirents.model;
 
 import java.time.LocalDate;
 
@@ -32,7 +32,7 @@ public class Stock {
     
     @Override
     public String toString() {
-        return shortname + " - " + isin + " - " + selldate;
+        return String.format("%-14s | %-14s | %-14s", shortname, isin, selldate);
     }
     
     public FaceUnit getFaceUnit() {
@@ -45,9 +45,5 @@ public class Stock {
     
     public LocalDate getSellDate() {
         return selldate;
-    }
-    
-    public String getExpiredStock() {
-        return String.format("%-14s | %-14s | %-14s", shortname, isin, selldate);
     }
 }
